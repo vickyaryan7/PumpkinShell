@@ -1,5 +1,5 @@
 # HTML Cheat Sheet
-## Introduction
+## Introduction 
 HTML stands for Hypertext Markup Language.HTML (Hypertext Markup Language) has come a long way since Tim Berners-Lee invented it back in 1991.HTML describes the structure of a Web page. HTML consists of a series of elements. HTML elements tell the browser how to display the content.
 Today HTML5 is the standard version and it's supported by all modern web browsers. Our HTML cheat sheet gives you a full list of all the HTML elements, including descriptions, code examples.
 
